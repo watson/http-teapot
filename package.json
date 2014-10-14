@@ -4,7 +4,8 @@
   "description": "Add a teapot easter egg to any HTTP server.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
