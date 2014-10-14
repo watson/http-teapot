@@ -1,0 +1,30 @@
+{
+  "name": "http-teapot",
+  "version": "0.0.0",
+  "description": "Add a teapot easter egg to any HTTP server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watson/http-teapot.git"
+  },
+  "author": "Thomas Watson Steen <w@tson.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/http-teapot/issues"
+  },
+  "homepage": "https://github.com/watson/http-teapot",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.0"
+  },
+  "keywords": [
+    "teapot",
+    "http",
+    "easteregg",
+    "server",
+    "fun"
+  ]
+}
