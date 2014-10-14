@@ -1,6 +1,7 @@
 # http-teapot
 
-Add a teapot easter egg to any HTTP server.
+Add support for [RFC 2324](https://www.ietf.org/rfc/rfc2324.txt) to any
+HTTP server.
 
 [![build status](https://secure.travis-ci.org/watson/http-teapot.png)](http://travis-ci.org/watson/http-teapot)
 
