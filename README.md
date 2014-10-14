@@ -3,7 +3,7 @@
 Add support for [RFC 2324](https://www.ietf.org/rfc/rfc2324.txt) to any
 HTTP server.
 
-![Utah Teapot](https://github.com/watson/http-teapot/blob/master/teapot.png)
+![Utah Teapot](https://raw.githubusercontent.com/watson/http-teapot/master/teapot.png)
 
 [![build status](https://secure.travis-ci.org/watson/http-teapot.png)](http://travis-ci.org/watson/http-teapot)
 
