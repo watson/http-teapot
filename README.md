@@ -2,6 +2,8 @@
 
 Add a teapot easter egg to any HTTP server.
 
+[![build status](https://secure.travis-ci.org/watson/http-teapot.png)](http://travis-ci.org/watson/http-teapot)
+
 ## Installation
 
 ```
