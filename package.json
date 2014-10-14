@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
-    "start": "node server.js",
-    "build": "browserify teapot.js -o bundle.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
