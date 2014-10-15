@@ -28,7 +28,7 @@ var app = express();
 app.get('/teapot', teapot);
 ```
 
-There is also a build in HTTP server that you can start from the command
+There is also a built in HTTP server that you can start from the command
 line by running:
 
 ```
