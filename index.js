@@ -2,7 +2,10 @@
 
 var fs = require('fs');
 var path = require('path');
-var body = '<script>' + fs.readFileSync(path.join(__dirname, 'teapot.min.js')) + '</script>';
+
+var body = '<center>418: I\'m a teapot</center><script>' +
+  fs.readFileSync(path.join(__dirname, 'teapot.min.js')) +
+  '</script>';
 
 module.exports = function (req, res) {
   res.writeHead(418, {
