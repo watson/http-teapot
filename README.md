@@ -26,7 +26,10 @@ var teapot = require('http-teapot');
 var app = express();
 
 app.get('/teapot', teapot);
+app.listen(1337);
 ```
+
+Now, if you visit [this](http://localhost:1337/teapot) (http://localhost:1337/teapot) you must see a teapot ;)
 
 There is also a built in HTTP server that you can start from the command
 line by running:
