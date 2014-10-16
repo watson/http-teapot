@@ -38,6 +38,12 @@ line by running:
 npm start
 ```
 
+## Cheat codes
+
+- **Rotate:** Click+drag the mouse
+- **Zoom:** Hold down *alt* and scroll
+- **Pan:** Hold down *ctrl* and click+drag the mouse
+
 ## License
 
 MIT
