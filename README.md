@@ -37,14 +37,9 @@ app.listen(1337);
 
 Now, if you visit [http://localhost:1337/teapot](http://localhost:1337/teapot) you must see a teapot ;)
 
-There is also a built in HTTP server that you can start from the command
-line by running:
-
-```
-npm start
-```
-
 ## CLI
+
+There is also a built in HTTP server that you can start from the command line.
 
 If you install the module globally you can run the server by running the `http-teapot` command.
 
