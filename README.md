@@ -13,6 +13,12 @@ HTTP server.
 npm install http-teapot
 ```
 
+or if you're going to use the cli
+
+```
+npm install http-teapot -g
+```
+
 ## Usage
 
 Just add http-teapot as a routing function. It supports most routing
@@ -37,6 +43,10 @@ line by running:
 ```
 npm start
 ```
+
+## CLI
+
+If you install the module globally you can run the server by running the `http-teapot` command.
 
 ## Cheat codes
 
