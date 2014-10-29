@@ -11,6 +11,9 @@
     "type": "git",
     "url": "https://github.com/watson/http-teapot.git"
   },
+  "bin": {
+    "http-teapot": "server.js"
+  },
   "author": "Thomas Watson Steen <w@tson.dk>",
   "license": "MIT",
   "bugs": {
